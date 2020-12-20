@@ -5,7 +5,7 @@
 <img src= "https://user-images.githubusercontent.com/73092728/102718474-75d07480-4312-11eb-8fc0-749f1386c934.png">
 
 <h2> Order Details  </h2
- <img src "https://user-images.githubusercontent.com/73092728/102718511-b3350200-4312-11eb-86e4-c009a3039f40.png">
+ <img src ="https://user-images.githubusercontent.com/73092728/102718511-b3350200-4312-11eb-86e4-c009a3039f40.png">
 
 
 
